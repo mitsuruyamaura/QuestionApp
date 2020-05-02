@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e8dc1f4d6bc03141ad180158ddf5d49, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  questionDatas:
+  - questionNo: 0
+    questionText: 1111111111111111111
+    answers:
+    - 11111
+    - 2222
+    - 333333
+    rarerity: 0
+    title: 
+    answerParameters_0: 03000000fdffffff0000000003000000
+    answerParameters_1: 0500000004000000fbfffffffdffffff
+    answerParameters_2: 04000000fefffffffcffffff00000000
+  - questionNo: 1
+    questionText: 222222222222222222222222222
+    answers:
+    - 333333333333333
+    - 5555555555555555
+    - 444444444444444
+    rarerity: 0
+    title: 
+    answerParameters_0: 0a00000014000000f6ffffff05000000
+    answerParameters_1: 00000000280000000000000000000000
+    answerParameters_2: fdffffff00000000fbffffff00000000
+  - questionNo: 2
+    questionText: 444444444444444
+    answers:
+    - fffffffffffff
+    - hhhhhhhhhhhhh
+    - dddddddddddddddd
+    rarerity: 1
+    title: 
+    answerParameters_0: fbffffff04000000f8fffffff7ffffff
+    answerParameters_1: 01000000f7ffffff03000000fcffffff
+    answerParameters_2: 05000000050000000000000000000000
+  - questionNo: 3
+    questionText: 
+    answers:
+    - yyyyyyyyyyyyy
+    - iiiiiiiiiiiii
+    - i79876867
+    rarerity: 2
+    title: rrrrrr
+    answerParameters_0: 05000000000000000400000000000000
+    answerParameters_1: faffffff000000000000000007000000
+    answerParameters_2: 0000000005000000fbffffff00000000
